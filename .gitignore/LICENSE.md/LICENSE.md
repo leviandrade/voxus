@@ -1,0 +1,15 @@
+<html>
+<head>
+
+</head>
+
+<body>
+<form name="login" method="post" action="verifica.php">
+E-MAIL:<input type="text" name="email"/><br/><br/>
+SENHA :<input type="password" name="senha"/><br/><br/>
+<input type="submit" value="ENTRAR"/>
+
+</form>
+</body>
+
+</html>
